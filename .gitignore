@@ -1,0 +1,4 @@
+env
+mainapp/__pycache__
+mainapp/migrations/__pycache__
+urlShortener/__pycache__
